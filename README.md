@@ -83,6 +83,14 @@ _end:
       <sub><code>C</code> • <code>cli</code> • <code>docker</code></sub>
     </td>
   </tr>
+
+  <tr>
+    <td valign="top">
+      <b><a href="https://github.com/KoP3YkA/mysql-c-driver">MySQL C Driver</a></b><br/>
+      This is an unfinished project that was supposed to be a mysql driver in C, with which you could send SQL queries through a single function, directly in C.<br/>
+      <sub><code>C</code> • <code>mysql</code> • <code>driver</code></sub>
+    </td>
+  </tr>
 </table>
 
 <br>
