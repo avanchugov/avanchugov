@@ -23,7 +23,7 @@ export class KoPeYkA {
 
 ### Skills
 
-##languages
+<p align="center"><h2>Languages</h2></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
