@@ -23,9 +23,23 @@ export class KoPeYkA {
 
 ### Skills
 
+##languages
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,java,py" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,discord,discordjs,js,java,py,bots,git,github,gitlab,idea,linux,mysql,npm,nodejs,sqlite,stackoverflow,unreal,webstorm,pycharm,windows" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=" />
   </a>
 </p>
 
