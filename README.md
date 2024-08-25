@@ -49,11 +49,6 @@ export class KoPeYkA {
   </a>
 </p>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,py,nodejs" />
-  </a>
-</p>
 <p align="center"><h2>IDE`s and engines</h2></p>
 
 <p align="left">
