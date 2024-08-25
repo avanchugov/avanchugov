@@ -20,3 +20,25 @@ export class KoPeYkA {
 
 }
 ```
+
+### Skills
+
+![TypeScript](https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg)
+![DiscordJS](https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg)
+![JavaScript](https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg)
+![Java](https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg)
+![Python](https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg)
+![Git](https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg)
+![GitHub](https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg)
+![GitLab](https://github.com/tandpfun/skill-icons/raw/main/icons/GitLab-Dark.svg)
+![IntelliJ IDEA](https://github.com/tandpfun/skill-icons/raw/main/icons/IntelliJIDEA-Dark.svg)
+![Linux](https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg)
+![MySQL](https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg)
+![NPM](https://github.com/tandpfun/skill-icons/raw/main/icons/NPM.svg)
+![NodeJS](https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg)
+![SQLite](https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite-Dark.svg)
+![Stack Overflow](https://github.com/tandpfun/skill-icons/raw/main/icons/StackOverflow-Dark.svg)
+![Unreal Engine](https://github.com/tandpfun/skill-icons/raw/main/icons/UnrealEngine.svg)
+![WebStorm](https://github.com/tandpfun/skill-icons/raw/main/icons/WebStorm-Dark.svg)
+![PyCharm](https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg)
+![Windows](https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg)
