@@ -25,7 +25,7 @@ export class KoPeYkA {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,discord,discordjs,js,java,py,bots,git,github,gitlab,idea,linux,mysql,npm,nodejs" />
+    <img src="https://skillicons.dev/icons?i=ts,discord,discordjs,js,java,py,bots,git,github,gitlab,idea,linux,mysql,npm,nodejs,sqlite,stackoverflow,unreal,webstorm" />
   </a>
 </p>
 
