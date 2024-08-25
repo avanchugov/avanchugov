@@ -1,14 +1,7 @@
-<p align="center">
-  <a href="https://vk.com/a.vanchugov">
-    <img src="https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK">
-  </a>
-  <a href="https://t.me/KoP3YkA">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://github.com/KoPeYkA">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
+╔=======================================================My Social Links===============================================================╗
+[![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/a.vanchugov)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KoP3YkA)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/KoP3YkA)
 
 ![GitHub Info](https://github-readme-stats.vercel.app/api?username=KoPeYkA&show_icons=true&theme=radical)
 
