@@ -4,7 +4,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KoP3YkA)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/KoP3YkA)
 
-![GitHub Info](https://github-readme-stats.vercel.app/api?username=KoPeYkA&show_icons=true&theme=radical)
+![GitHub Info](https://github-readme-stats.vercel.app/api?username=KoPeYkA&show_icons=true&theme=codeSTACKr)
 
 ```typescript
 export class KoPeYkA {
