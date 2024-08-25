@@ -23,22 +23,22 @@ export class KoPeYkA {
 
 ### Skills
 
-![TypeScript](https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg)
-![DiscordJS](https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg)
-![JavaScript](https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg)
-![Java](https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg)
-![Python](https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg)
-![Git](https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg)
-![GitHub](https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg)
-![GitLab](https://github.com/tandpfun/skill-icons/raw/main/icons/GitLab-Dark.svg)
-![IntelliJ IDEA](https://github.com/tandpfun/skill-icons/raw/main/icons/IntelliJIDEA-Dark.svg)
-![Linux](https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg)
-![MySQL](https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg)
-![NPM](https://github.com/tandpfun/skill-icons/raw/main/icons/NPM.svg)
-![NodeJS](https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg)
-![SQLite](https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite-Dark.svg)
-![Stack Overflow](https://github.com/tandpfun/skill-icons/raw/main/icons/StackOverflow-Dark.svg)
-![Unreal Engine](https://github.com/tandpfun/skill-icons/raw/main/icons/UnrealEngine.svg)
-![WebStorm](https://github.com/tandpfun/skill-icons/raw/main/icons/WebStorm-Dark.svg)
-![PyCharm](https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg)
-![Windows](https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg)
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" width="40" height="40" alt="TypeScript"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" width="40" height="40" alt="DiscordJS"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="40" height="40" alt="JavaScript"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="40" height="40" alt="Java"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="40" height="40" alt="Python"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="40" height="40" alt="Git"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="40" height="40" alt="GitHub"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GitLab-Dark.svg" width="40" height="40" alt="GitLab"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/IntelliJIDEA-Dark.svg" width="40" height="40" alt="IntelliJ IDEA"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" width="40" height="40" alt="Linux"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="40" height="40" alt="MySQL"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NPM.svg" width="40" height="40" alt="NPM"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="40" height="40" alt="NodeJS"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite-Dark.svg" width="40" height="40" alt="SQLite"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/StackOverflow-Dark.svg" width="40" height="40" alt="Stack Overflow"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/UnrealEngine.svg" width="40" height="40" alt="Unreal Engine"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/WebStorm-Dark.svg" width="40" height="40" alt="WebStorm"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg" width="40" height="40" alt="PyCharm"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" width="40" height="40" alt="Windows"/>
