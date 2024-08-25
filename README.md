@@ -21,8 +21,6 @@ export class KoPeYkA {
 }
 ```
 
-### Skills
-
 <p align="center"><h2>Languages</h2></p>
 
 <p align="left">
