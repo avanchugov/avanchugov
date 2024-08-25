@@ -32,7 +32,7 @@ export class KoPeYkA {
 
 <p align="left">
   <a href="https://vk.com/blackmanagerlite">
-    <img src="https://i.imgur.com/qXkdOOa.png" width="200px" />
+    <img src="https://i.imgur.com/qXkdOOa.png" width="150px" />
   </a>
 </p>
 
