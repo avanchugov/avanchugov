@@ -29,7 +29,6 @@ export class KoPeYkA {
 }
 ```
 <p align="center"><h2>My projects</h2></p>
-
 <p align="left">
   <a href="https://vk.com/blackmanagerlite">
     <img src="https://i.imgur.com/qXkdOOa.png" width="150px" />
@@ -37,9 +36,18 @@ export class KoPeYkA {
 </p>
 
 <p align="center"><h2>IDE`s and engines</h2></p>
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=webstorm,pycharm,idea,unreal" />
+  </a>
+</p>
 
 <p align="center"><h2>Languages</h2></p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,java,py,nodejs" />
+  </a>
+</p>
 
 <p align="left">
   <a href="https://skillicons.dev">
