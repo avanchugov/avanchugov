@@ -27,19 +27,48 @@ export class KoPeYkA {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,py" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java,py,nodejs" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,discord,discordjs,js,java,py,bots,git,github,gitlab,idea,linux,mysql,npm,nodejs,sqlite,stackoverflow,unreal,webstorm,pycharm,windows" />
-  </a>
-</p>
+<p align="center"><h2>IDE`s and engines</h2></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=" />
+    <img src="https://skillicons.dev/icons?i=webstorm,pycharm,idea,unreal" />
   </a>
 </p>
+
+<p align="center"><h2>Social</h2></p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,git,github,gitlab,stackoverflow" />
+  </a>
+</p>
+
+<p align="center"><h2>Systems</h2></p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows" />
+  </a>
+</p>
+
+<p align="center"><h2>Platforms, APIs</h2></p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,discordjs" />
+  </a>
+</p>
+
+<p align="center"><h2>Database</h2></p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  </a>
+</p>
+
 
