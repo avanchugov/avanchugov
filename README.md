@@ -35,7 +35,7 @@ export class KoPeYkA {
     <img src="https://i.imgur.com/qXkdOOa.png" width="150px" />
   </a>
 </p>
-```
+```text
 test
 ```
 
