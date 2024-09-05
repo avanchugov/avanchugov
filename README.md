@@ -6,8 +6,6 @@
 
 ![GitHub Info](https://github-readme-stats.vercel.app/api?username=KoPeYkA&show_icons=true&theme=codeSTACKr)
 
-<iframe width="110" height="200" src="https://www.myinstants.com/instant/zhdi-doks-zhdi-svat-66556/embed/" frameborder="0" scrolling="no"></iframe>
-
 ```typescript
 export class KoPeYkA {
 
