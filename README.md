@@ -85,4 +85,13 @@ export class KoPeYkA {
   </a>
 </p>
 
+<p align="center"><h2>=============================================================</h2></p>
+<p align="center"><h2>Learning</h2></p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,electron" />
+  </a>
+</p>
+
 
