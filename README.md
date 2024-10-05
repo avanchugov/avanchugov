@@ -15,7 +15,7 @@ export class KoPeYkA {
     public static languages: string[] = ["Russian"];
 
     public static VKontakte: string = "https://vk.com/a.vanchugov";
-    public static Telegram: string = "https://t.me/KoP3YkA";
+    public static Telegram: string = "https://t.me/artemyvanchugov";
 
     public static ownProjects: string[] = ["blackmanagerlite", "skyland"];
     public static companys: string[] = ["Abelix"];
