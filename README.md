@@ -23,7 +23,7 @@ export class KoPeYkA {
     public static devLanguages: DevLanguages[] = [DevLanguages.TYPESCRIPT, DevLanguages.JAVA, DevLanguages.JAVASCRIPT, DevLanguages.PYTHON];
 
     constructor(action: Action = Action.SEND_ME_MESSAGE_TO_VK_OR_TG) {
-       KoPeYkA.reply();
+       this.reply();
     }
 
 }
