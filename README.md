@@ -27,6 +27,8 @@ class KoPeYkA {
   }
 }
 ```
+
+
 ## 📁 My Projects
 
 <table>
@@ -39,6 +41,7 @@ class KoPeYkA {
   </tr>
   <!-- Add more projects below in the same format -->
 </table>
+
 
 ## ⚙️ Technologies
 <p align="left">
