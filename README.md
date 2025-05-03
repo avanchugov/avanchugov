@@ -4,7 +4,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/a_vanchugov)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/KoP3YkA)
 
-<br><br>
+<br>
 ## 🧾 About Me
 
 Backend developer focused on TypeScript and scalable architecture. Works primarily with MySQL, NestJS, and REST-based APIs. Experience in secure loader-based delivery for private bots (VK, Telegram, Discord), including HWID and token validation.
@@ -29,7 +29,7 @@ class KoPeYkA {
 }
 ```
 
-<br><br>
+<br>
 ## 📁 My Projects
 
 <table>
@@ -43,7 +43,7 @@ class KoPeYkA {
   <!-- Add more projects below in the same format -->
 </table>
 
-<br><br>
+<br>
 ## ⚙️ Technologies
 <p align="left">
   <a href="https://skillicons.dev">
