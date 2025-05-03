@@ -5,6 +5,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/KoP3YkA)
 
 <br>
+
 ## 🧾 About Me
 
 Backend developer focused on TypeScript and scalable architecture. Works primarily with MySQL, NestJS, and REST-based APIs. Experience in secure loader-based delivery for private bots (VK, Telegram, Discord), including HWID and token validation.
@@ -30,6 +31,7 @@ class KoPeYkA {
 ```
 
 <br>
+
 ## 📁 My Projects
 
 <table>
@@ -44,6 +46,7 @@ class KoPeYkA {
 </table>
 
 <br>
+
 ## ⚙️ Technologies
 <p align="left">
   <a href="https://skillicons.dev">
