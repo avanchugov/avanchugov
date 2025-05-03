@@ -1,8 +1,9 @@
 ## 🌐 Socials
-<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;[![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/a.vanchugov)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/a_vanchugov)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/KoP3YkA)
+
 <br><br>
 ## 🧾 About Me
 
@@ -27,6 +28,7 @@ class KoPeYkA {
   }
 }
 ```
+
 <br><br>
 ## 📁 My Projects
 
