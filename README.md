@@ -4,86 +4,46 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artemyvanchugov)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/KoP3YkA)
 
-![GitHub Info](https://github-readme-stats.vercel.app/api?username=KoPeYkA&show_icons=true&theme=codeSTACKr)
+## 🧾 About Me
+
+Backend developer focused on TypeScript and scalable architecture. Works primarily with MySQL, NestJS, and REST-based APIs. Experience in secure loader-based delivery for private bots (VK, Telegram, Discord), including HWID and token validation.
+
+- ⚙️ Developed a lightweight TypeScript ORM ([ModularORM](https://github.com/KoP3YkA/ModularORM))
+- 🔐 Designed SaaS-like infrastructure with feature flagging, HMAC validation, and dynamic script loading
+- 🛠 Uses GitLab CI/CD, custom admin panels, and deployment to dedicated servers
+
+Open to collaboration on backend-driven systems and technical infrastructure.
 
 ```typescript
-export class KoPeYkA {
+class KoPeYkA {
+  static name = "Artemy Vanchugov";
+  static age = 15;
+  static stack = ["TypeScript", "NodeJS", "NestJS", "PostgreSQL"];
+  static location = "Russia, Novosibirsk";
+  static telegram = "https://t.me/artemyvanchugov";
 
-    public static name : string = "Artemy Vanchugov";
-    public static yo : string = "?";
-    public static city : string = "Russia, Novosibirsk";
-    public static languages: string[] = ["Russian"];
-
-    public static VKontakte: string = "https://vk.com/a.vanchugov";
-    public static Telegram: string = "https://t.me/artemyvanchugov";
-
-    public static ownProjects: string[] = ["blackmanagerlite", "skyland"];
-    public static companys: string[] = ["Abelix"];
-
-    public static devLanguages: DevLanguages[] = [DevLanguages.TYPESCRIPT, DevLanguages.JAVA, DevLanguages.JAVASCRIPT, DevLanguages.PYTHON];
-
-    constructor(action: Action = Action.SEND_ME_MESSAGE_TO_VK_OR_TG) {
-       this.reply();
-    }
-
+  constructor() {
+    console.log("Hi! I'm probably building yet another backend.");
+  }
 }
 ```
-<p align="center"><h2>My projects</h2></p>
-<p align="left">
-  <a href="https://vk.com/blackmanagerlite">
-    <img src="https://i.imgur.com/qXkdOOa.png" width="150px" />
-  </a>
-</p>
+## 📁 My Projects
 
-<p align="center"><h2>Languages</h2></p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,py,nodejs" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <b><a href="https://github.com/KoP3YkA/ModularORM">ModularORM</a></b><br/>
+      Lightweight and modular ORM for TypeScript with built-in query builder.<br/>
+      <sub><code>TypeScript</code> • <code>MySQL</code> • <code>npm</code></sub>
+    </td>
+  </tr>
+  <!-- Add more projects below in the same format -->
+</table>
 
-<p align="center"><h2>IDE`s and engines</h2></p>
-
+## ⚙️ Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webstorm,pycharm,idea,unreal" />
-  </a>
-</p>
-<p align="center"><h2>Social</h2></p>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,git,github,gitlab,stackoverflow" />
-  </a>
-</p>
-<p align="center"><h2>Systems</h2></p>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows" />
-  </a>
-</p>
-<p align="center"><h2>Platforms, APIs</h2></p>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,discordjs" />
-  </a>
-</p>
-<p align="center"><h2>Database</h2></p>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-  </a>
-</p>
-
-<p align="center"><h2>==========================================================</h2></p>
-<p align="center"><h2>Learning</h2></p>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,electron" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,git,github,gitlab,discordjs,mysql,sqlite,nestjs" />
   </a>
 </p>
 
