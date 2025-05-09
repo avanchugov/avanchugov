@@ -50,7 +50,7 @@ class KoPeYkA {
 ## ⚙️ Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,git,github,gitlab,discordjs,mysql,sqlite,nestjs" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,git,github,gitlab,discordjs,mysql,sqlite,nestjs,typeorm" />
   </a>
 </p>
 
