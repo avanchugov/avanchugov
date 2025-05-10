@@ -47,10 +47,10 @@ class KoPeYkA {
 
 <br>
 
-## ⚙️ Technologies
+## ⚙️ My Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,git,github,gitlab,discordjs,mysql,sqlite,nestjs,redis,orm" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,git,github,gitlab,discordjs,mysql,sqlite,nestjs,redis" />
   </a>
 </p>
 
