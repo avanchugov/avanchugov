@@ -8,24 +8,24 @@
 
 ## 🧾 About Me
 
-Backend developer focused on TypeScript and scalable architecture. Works primarily with MySQL, NestJS, and REST-based APIs. Experience in secure loader-based delivery for private bots (VK, Telegram, Discord), including HWID and token validation.
+Backend developer focused on TypeScript and scalable architecture. Works with MySQL, NestJS, and REST APIs. I have experience in SaaS architecture, bot development, commercial projects with protection (HMAC, tokens, HWID, etc.)
 
 - ⚙️ Developed a lightweight TypeScript ORM ([ModularORM](https://github.com/KoP3YkA/ModularORM))
 - 🔐 Designed SaaS-like infrastructure with feature flagging, HMAC validation, and dynamic script loading
 - 🛠 Uses GitLab CI/CD, custom admin panels, and deployment to dedicated servers
 
-Open to collaboration on backend-driven systems and technical infrastructure.
+Open to collaboration.
 
 ```typescript
 class KoPeYkA {
   public static name = "Artemy Vanchugov";
   public static age = 15;
-  public static stack = ["TypeScript", "NodeJS", "NestJS", "MySQL"];
+  public static stack = ["TypeScript", "NodeJS", "NestJS", "MySQL", "TypeORM"];
   public static location = "Russia, Novosibirsk";
   public static telegram = "https://t.me/a_vanchugov";
 
   constructor() {
-    console.log("Hi! I'm probably building yet another backend.");
+    console.log("Hi! I'm waiting for answer, summer will be end soon)");
   }
 }
 ```
