@@ -4,6 +4,8 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/a_vanchugov)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/KoP3YkA)
 
+![Profile Views](https://komarev.com/ghpvc/?username=KoP3YkA&color=blue)
+
 <br>
 
 ## 🧾 About Me
