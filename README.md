@@ -42,7 +42,13 @@ class KoPeYkA {
       <sub><code>TypeScript</code> • <code>MySQL</code> • <code>npm</code></sub>
     </td>
   </tr>
-  <!-- Add more projects below in the same format -->
+  <tr>
+    <td valign="top">
+      <b><a href="https://github.com/KoP3YkA/Time">Time</a></b><br/>
+      Library focused on time formatting and convenient manipulation<br/>
+      <sub><code>TypeScript</code> • <code>Datetime</code> • <code>npm</code></sub>
+    </td>
+  </tr>
 </table>
 
 <table>
@@ -53,7 +59,6 @@ class KoPeYkA {
       <sub><code>TypeScript</code> • <code>Datetime</code> • <code>npm</code></sub>
     </td>
   </tr>
-  <!-- Add more projects below in the same format -->
 </table>
 
 
