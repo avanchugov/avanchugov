@@ -42,6 +42,7 @@ class KoPeYkA {
       <sub><code>TypeScript</code> • <code>MySQL</code> • <code>npm</code></sub>
     </td>
   </tr>
+  
   <tr>
     <td valign="top">
       <b><a href="https://github.com/KoP3YkA/Time">Time</a></b><br/>
@@ -49,14 +50,12 @@ class KoPeYkA {
       <sub><code>TypeScript</code> • <code>Datetime</code> • <code>npm</code></sub>
     </td>
   </tr>
-</table>
-
-<table>
+  
   <tr>
     <td valign="top">
-      <b><a href="https://github.com/KoP3YkA/Time">Time</a></b><br/>
-      Library focused on time formatting and convenient manipulation<br/>
-      <sub><code>TypeScript</code> • <code>Datetime</code> • <code>npm</code></sub>
+      <b><a href="https://github.com/KoP3YkA/FineHTTP">FineHTTP</a></b><br/>
+      Simple library that will help you type standard fetch and automate some actions.<br/>
+      <sub><code>TypeScript</code> • <code>fetch</code> • <code>npm</code></sub>
     </td>
   </tr>
 </table>
