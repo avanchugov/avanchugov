@@ -45,6 +45,18 @@ class KoPeYkA {
   <!-- Add more projects below in the same format -->
 </table>
 
+<table>
+  <tr>
+    <td valign="top">
+      <b><a href="https://github.com/KoP3YkA/Time">Time</a></b><br/>
+      Lightweight library focused on time formatting and convenient manipulation<br/>
+      <sub><code>TypeScript</code> • <code>Datetime</code> • <code>npm</code></sub>
+    </td>
+  </tr>
+  <!-- Add more projects below in the same format -->
+</table>
+
+
 <br>
 
 ## ⚙️ My Stack
