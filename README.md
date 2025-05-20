@@ -49,7 +49,7 @@ class KoPeYkA {
   <tr>
     <td valign="top">
       <b><a href="https://github.com/KoP3YkA/Time">Time</a></b><br/>
-      Lightweight library focused on time formatting and convenient manipulation<br/>
+      Library focused on time formatting and convenient manipulation<br/>
       <sub><code>TypeScript</code> • <code>Datetime</code> • <code>npm</code></sub>
     </td>
   </tr>
