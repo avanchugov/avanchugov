@@ -14,6 +14,7 @@ Backend developer focused on TypeScript and scalable architecture. Works with My
 - ⚙️ Developed a lightweight TypeScript ORM ([ModularORM](https://github.com/KoP3YkA/ModularORM))
 - 🔐 Designed SaaS-like infrastructure with feature flagging, HMAC validation, and dynamic script loading
 - 🛠 Uses GitLab CI/CD, custom admin panels, and deployment to dedicated servers
+- ✅ Commercial experience, Joint development
 
 Open to collaboration.
 
@@ -61,6 +62,7 @@ class KoPeYkA {
   </tr>
 </table>
 
+<br>
 
 <br>
 
