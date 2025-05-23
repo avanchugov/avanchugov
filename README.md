@@ -33,7 +33,7 @@ class KoPeYkA {
 
 <br>
 
-## 📁 My Projects
+## 📁 My Libraries & Frameworks
 
 <table>
   <tr>
