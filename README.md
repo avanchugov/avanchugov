@@ -69,7 +69,7 @@ class KoPeYkA {
 ## ⚙️ My Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,git,github,gitlab,discordjs,mysql,sqlite,nestjs,redis,npm,jest,java,python,docker,eslint,prettier,husky" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,git,github,gitlab,discordjs,mysql,sqlite,nestjs,redis,npm,jest,java,python,docker" />
   </a>
 </p>
 
