@@ -22,7 +22,7 @@ Open to collaboration.
 class KoPeYkA {
   public static name = "Artemy Vanchugov";
   public static age = 15;
-  public static stack = ["TypeScript", "NodeJS", "NestJS", "MySQL", "TypeORM"];
+  public static stack = ["TypeScript", "NodeJS", "NestJS", "MySQL", "TypeORM", "NASM"];
   public static location = "Russia, Novosibirsk";
   public static telegram = "https://t.me/a_vanchugov";
 
@@ -69,7 +69,7 @@ class KoPeYkA {
 ## ⚙️ My Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,git,github,gitlab,discordjs,mysql,sqlite,nestjs,redis,npm,jest,java,python,docker,nasm,asm" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,git,github,gitlab,discordjs,mysql,sqlite,nestjs,redis,npm,jest,java,python,docker" />
   </a>
 </p>
 
