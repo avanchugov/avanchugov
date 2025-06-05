@@ -22,8 +22,8 @@ Open to collaboration.
 section .data
   name db "Artemy Vanchugov", 0xA
   age db 15
-  location db "Russia, Novosibirsk"
-  telegram db "https://t.me/a_vanchugov"
+  location db "Russia, Novosibirsk", 0xA
+  telegram db "https://t.me/a_vanchugov", 0xA
   stone db "TypeScript", 0xA
   sttwo db "NodeJS", 0xA
   stthree db "MySQL", 0xA
