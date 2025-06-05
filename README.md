@@ -18,18 +18,34 @@ Backend developer focused on TypeScript and scalable architecture. Works with My
 
 Open to collaboration.
 
-```typescript
-class KoPeYkA {
-  public static name = "Artemy Vanchugov";
-  public static age = 15;
-  public static stack = ["TypeScript", "NodeJS", "NestJS", "MySQL", "TypeORM", "NASM"];
-  public static location = "Russia, Novosibirsk";
-  public static telegram = "https://t.me/a_vanchugov";
+```assembly
+section .data
+  name db "Artemy Vanchugov", 0xA
+  age db 15
+  location db "Russia, Novosibirsk"
+  telegram db "https://t.me/a_vanchugov"
+  stone db "TypeScript", 0xA
+  sttwo db "NodeJS", 0xA
+  stthree db "MySQL", 0xA
+  stfour db "TypeORM", 0xA
+  stfive db "NASM", 0xA
+  my_stack dq stone, sttwo, stthree, stfour, stfive
+  message db "Hi! I'm waiting for answer, summer will be end soon)"
+  message_len equ $ - message
 
-  constructor() {
-    console.log("Hi! I'm waiting for answer, summer will be end soon)");
-  }
-}
+section .text
+  global _start
+
+_start:
+  mov rax, 1
+  mov rdi, 1
+  mov rsi, message
+  mov rdx, message_len
+  syscall
+
+_end:
+  mov rax, 60
+  syscall
 ```
 
 <br>
