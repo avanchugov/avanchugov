@@ -85,7 +85,7 @@ _end:
 ## ⚙️ My Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,git,github,gitlab,discordjs,mysql,sqlite,nestjs,redis,npm,jest,java,python,docker" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,git,github,gitlab,discordjs,mysql,sqlite,nestjs,redis,npm,jest,java,python,docker,c" />
   </a>
 </p>
 
