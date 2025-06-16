@@ -9,11 +9,11 @@
 
 ## 🧾 About Me
 
-Backend developer focused on TypeScript and scalable architecture. Works with MySQL, NestJS, and REST APIs. I have experience in SaaS architecture, bot development, commercial projects with protection (HMAC, tokens, HWID, etc.)
+TypeScript backend developer / Scalable architecture. Work with MySQL, NestJS, REST APIs, ORMs and other tech. I have experience in SaaS architecture (with HMAC, tokens, HWID, etc.), bot development, commercial projects
 
 - ⚙️ Developed a lightweight TypeScript ORM ([ModularORM](https://github.com/KoP3YkA/ModularORM))
-- 🔐 Designed SaaS-like infrastructure with feature flagging, HMAC validation, and dynamic script loading
-- 🛠 Uses GitLab CI/CD, custom admin panels, and deployment to dedicated servers
+- 🔐 Designed SaaS project
+- 🛠 Wrote Brainfuck to NASM compiler in C
 - ✅ Commercial experience, Joint development (TypeScript&Java)
 
 Open to collaboration.
