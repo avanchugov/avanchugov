@@ -30,7 +30,7 @@ section .data
   stfour db "TypeORM", 0xA
   stfive db "NASM", 0xA
   my_stack dq stone, sttwo, stthree, stfour, stfive
-  message db "Hi! I'm waiting for answer, summer will be end soon)"
+  message db "The world does not see your simplicity"
   message_len equ $ - message
 
 section .text
