@@ -24,12 +24,6 @@ section .data
   age db 15
   location db "Russia, Novosibirsk", 0xA
   telegram db "https://t.me/a_vanchugov", 0xA
-  stone db "TypeScript", 0xA
-  sttwo db "NodeJS", 0xA
-  stthree db "MySQL", 0xA
-  stfour db "TypeORM", 0xA
-  stfive db "NASM", 0xA
-  my_stack dq stone, sttwo, stthree, stfour, stfive
   message db "The world does not see your simplicity"
   message_len equ $ - message
 
@@ -74,6 +68,15 @@ _end:
       <b><a href="https://github.com/KoP3YkA/FineHTTP">FineHTTP</a></b><br/>
       Simple library that will help you type standard fetch and automate some actions.<br/>
       <sub><code>TypeScript</code> • <code>fetch</code> • <code>npm</code></sub>
+    </td>
+  </tr>
+
+  
+  <tr>
+    <td valign="top">
+      <b><a href="https://github.com/KoP3YkA/ctest">cTEST</a></b><br/>
+      This is a simple and lightweight C library that will allow you to test your application and see the test results right in the console.<br/>
+      <sub><code>C</code> • <code>tests</code> • <code>lightweight</code></sub>
     </td>
   </tr>
 </table>
