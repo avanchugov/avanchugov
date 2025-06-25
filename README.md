@@ -19,7 +19,7 @@ section .data
   age db 15
   music db "Houses Are Silent, Rwind, Where Is The Fantom?, Chernikovskya Hata", 0xA
   telegram db "https://t.me/a_vanchugov", 0xA
-  message db "You don`t even realize it — you`re breaking me, and yet I can`t forget you. You have no idea how much you`re breaking me, and you don`t love me.", 0xA
+  message db "You have no idea how much you`re breaking me, and you don`t love me.", 0xA
   message_len equ $ - message
 
 section .text
