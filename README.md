@@ -9,12 +9,7 @@
 
 ## 🧾 About Me
 
-TypeScript backend developer / Scalable architecture. Work with MySQL, NestJS, REST APIs, ORMs and other tech. I have experience in SaaS architecture (with HMAC, tokens, HWID, etc.), bot development, commercial projects
-
-- ⚙️ Developed a lightweight TypeScript ORM ([ModularORM](https://github.com/KoP3YkA/ModularORM))
-- 🔐 Designed SaaS project
-- 🛠 Wrote Brainfuck to NASM compiler in C
-- ✅ Commercial experience, Joint development (TypeScript&Java)
+TypeScript backend developer / Scalable architecture. Work with MySQL, NestJS, REST APIs, ORMs and other tech. I have experience in SaaS architecture (with HMAC, tokens, HWID, etc.), bot development, commercial projects. Commercial experience, Joint development (TypeScript&Java)
 
 Open to collaboration.
 
@@ -44,7 +39,7 @@ _end:
 
 <br>
 
-## 📁 My Libraries & Frameworks
+## 📁 My Projects
 
 <table>
   <tr>
@@ -77,6 +72,15 @@ _end:
       <b><a href="https://github.com/KoP3YkA/ctest">cTEST</a></b><br/>
       This is a simple and lightweight C library that will allow you to test your application and see the test results right in the console.<br/>
       <sub><code>C</code> • <code>tests</code> • <code>lightweight</code></sub>
+    </td>
+  </tr>
+
+  
+  <tr>
+    <td valign="top">
+      <b><a href="https://github.com/KoP3YkA/docker-cli-tool">cTEST</a></b><br/>
+      A console utility that allows you to easily create Dockerfile and docker-compose with a single command.<br/>
+      <sub><code>C</code> • <code>cli</code> • <code>docker</code></sub>
     </td>
   </tr>
 </table>
