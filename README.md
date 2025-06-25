@@ -9,7 +9,7 @@
 
 ## 🧾 About Me
 
-TypeScript backend developer / Scalable architecture. Work with MySQL, NestJS, REST APIs, ORMs and other tech. I have experience in SaaS architecture (with HMAC, tokens, HWID, etc.), bot development, commercial projects. Commercial experience, Joint development (TypeScript&Java)
+TypeScript backend developer / Scalable architecture. Work with MySQL, NestJS, REST APIs, ORMs and other tech. I have experience in SaaS architecture (with HMAC, tokens, HWID, etc.), bot development, commercial projects, development in C. Commercial experience, Joint development (TypeScript&Java)
 
 Open to collaboration.
 
@@ -19,7 +19,7 @@ section .data
   age db 15
   location db "Russia, Novosibirsk", 0xA
   telegram db "https://t.me/a_vanchugov", 0xA
-  message db "The world does not see your simplicity"
+  message db "People have grown tiresome.", 0xA
   message_len equ $ - message
 
 section .text
