@@ -17,9 +17,9 @@ Open to collaboration.
 section .data
   name db "Artemy Vanchugov", 0xA
   age db 15
-  location db "Russia, Novosibirsk", 0xA
+  music db "Houses Are Silent, Rwind, Where Is The Fantom?, Chernikovskya Hata", 0xA
   telegram db "https://t.me/a_vanchugov", 0xA
-  message db "People have grown tiresome.", 0xA
+  message db "You don`t even realize it — you`re breaking me, and yet I can`t forget you. You have no idea how much you`re breaking me, and you don`t love me.", 0xA
   message_len equ $ - message
 
 section .text
