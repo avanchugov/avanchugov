@@ -78,7 +78,7 @@ _end:
   
   <tr>
     <td valign="top">
-      <b><a href="https://github.com/KoP3YkA/docker-cli-tool">cTEST</a></b><br/>
+      <b><a href="https://github.com/KoP3YkA/docker-cli-tool">DockerCLI</a></b><br/>
       A console utility that allows you to easily create Dockerfile and docker-compose with a single command.<br/>
       <sub><code>C</code> • <code>cli</code> • <code>docker</code></sub>
     </td>
