@@ -9,7 +9,7 @@
 
 ## 🧾 About Me
 
-TypeScript backend developer / Scalable architecture. Work with MySQL, NestJS, REST APIs, ORMs and other tech. I have experience in SaaS architecture (with HMAC, tokens, HWID, etc.), bot development, commercial projects, development in C. Commercial experience, Joint development (TypeScript&Java), Contributing in Open-Source
+TypeScript backend developer / Scalable architecture. Work with MySQL, NestJS, REST APIs, ORMs and other tech. I have SaaS project (with HMAC, tokens, HWID, etc.), experience in bot development, commercial projects, development in C. Commercial experience, Joint development (TypeScript&Java), Contributing in Open-Source
 
 Open to collaboration.
 
