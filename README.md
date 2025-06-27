@@ -19,7 +19,7 @@ section .data
   age db 15
   music db "According to my mood", 0xA
   telegram db "https://t.me/a_vanchugov", 0xA
-  message db "You have no idea how much you`re breaking me, and you don`t love me.", 0xA
+  message db "Some laugh beneath the sun, some live a joyful fate. While luck has smiled on everyone - for me, it came too late.", 0xA
   message_len equ $ - message
 
 section .text
