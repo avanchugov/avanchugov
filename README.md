@@ -19,8 +19,8 @@ section .data
   age db 15
   music db "According to my mood", 0xA
   telegram db "https://t.me/a_vanchugov", 0xA
-  message db "Some laugh beneath the sun, some live a joyful fate. While luck has smiled on everyone - for me, it came too late.", 0xA
-  message_len equ $ - message
+  msg db "Some laugh beneath the sun, some live a joyful fate. While luck has smiled on everyone - for me, it came too late."
+  message_len equ $ - msg
 
 section .text
   global _start
@@ -28,7 +28,7 @@ section .text
 _start:
   mov rax, 1
   mov rdi, 1
-  mov rsi, message
+  mov rsi, msg
   mov rdx, message_len
   syscall
 
