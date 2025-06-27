@@ -19,7 +19,7 @@ section .data
   age db 15
   music db "According to my mood", 0xA
   telegram db "https://t.me/a_vanchugov", 0xA
-  msg db "Someone in the world is having fun, someone is feeling good. Everyone's had some luck in life - but I wasn't lucky."
+  msg db "Someone in the world is having fun, someone is feeling good. Everyone`s had some luck in life - but I wasn`t lucky."
   message_len equ $ - msg
 
 section .text
