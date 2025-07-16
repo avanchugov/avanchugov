@@ -1,15 +1,10 @@
-## 🌐 Socials
-
-&nbsp;&nbsp;&nbsp;&nbsp;[![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/a.vanchugov)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/a_vanchugov)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/avanchugov)
-![Profile Views](https://komarev.com/ghpvc/?username=KoP3YkA&color=blue)
-
-<br>
+<p align="center">
+    <img src="s.png" alt="image">
+</p>
 
 ## 🧾 About Me
 
-TypeScript backend developer / Scalable architecture. Work with MySQL, NestJS, REST APIs, ORMs and other tech. I have SaaS project (with HMAC, tokens, HWID, etc.), experience in bot development, commercial projects, development in C. Commercial experience, Joint development (TypeScript&Java), Contributing in Open-Source
+Distributed systems engineer / Back-End developer. Work with MySQL, PostgreSQL, microservice architecture, distributed systems, RESTful APIs and other tech. I have SaaS project (with HMAC, tokens, HWID, etc.), experience in bot development, commercial projects, development in C. Commercial experience, Joint development (TypeScript&Java), Contributing in Open-Source, CS/DS knowledge
 
 Open to collaboration.
 
