@@ -4,7 +4,9 @@
 
 ## 🧾 About Me
 
-Distributed systems engineer / Back-End developer. Work with MySQL, PostgreSQL, microservice architecture, distributed systems, RESTful APIs and other tech. I have SaaS project (with HMAC, tokens, HWID, etc.), experience in bot development, commercial projects, development in C. Commercial experience, Joint development (TypeScript&Java), Contributing in Open-Source, CS/DS knowledge
+Distributed systems engineer / Back-End developer. Work with MySQL, PostgreSQL, microservice architecture, distributed systems, RESTful APIs and other tech. I have SaaS project (with HMAC, tokens, HWID, etc.), experience in bot development, commercial projects, development in C. Commercial experience, Joint development (TypeScript&Java), Contributing in Open-Source, CS/DS knowledge.
+
+I'm interested in neuropsychology and psychoanalysis.
 
 Open to collaboration.
 
